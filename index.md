@@ -1,9 +1,5 @@
 # 蔡文蕾 · 产品作品集
 
-> 信息管理与信息系统 | 2027届
-> 电话：15706773803 | 邮箱：15706773803@163.com
-> 作品集：https://csun3803.github.io/product-portfolio
-
 
 ## 目录
 
@@ -47,13 +43,11 @@
 **我的角色**：独立完成产品架构设计、用户路径梳理与高保真原型输出，并完成前后端开发落地，实现从设计到上线的全流程闭环。
 
 **项目背景**：
-
 - 综合电商缺垂直能力：无盲盒抽取、无图鉴收集，难以支撑“收集—展示—社交”的完整闭环
 - 社区平台交易断裂：内容与商品无结构化关联，种草后需跨平台搜索
 - 监管要求：盲盒需概率公示、抽取留痕、先审后上
 
 **核心成果**：
-
 - 设计三大核心模块：电商、社交、AI
 - 完成30+核心页面高保真原型，输出PRD与设计规范
 - 构建“销售系列—销售款式”两级商品模型，支撑“一套多款、隐藏款稀缺”行业特征
@@ -77,7 +71,7 @@
 - 采用“整数槽位池”替代浮点概率，保证实际概率与配置一致
   
 <img width="554" height="387" alt="image" src="https://github.com/user-attachments/assets/cdaef13b-caed-427a-aaa4-1e3a472bbcfc" />
-<img width="525" height="203" alt="image" src="https://github.com/user-attachments/assets/1c96443f-bdcb-4204-b0eb-95b8b6e0d72d" />
+<img width="605" height="233" alt="image" src="https://github.com/user-attachments/assets/1c96443f-bdcb-4204-b0eb-95b8b6e0d72d" />
 
 
 ### 产品设计（二）：社区与商品关联、图鉴与卡柜
@@ -110,9 +104,9 @@
 - 设计内容召回（0.45）+ 协同过滤（0.30）+ 热度兜底（0.25）的混合推荐策略
 - 支撑首页“推荐”与AI发现页“独家推荐”
 
-<img width="963" height="658" alt="image" src="https://github.com/user-attachments/assets/565065f2-8e02-4508-a2ec-e4477ea5aa4d" />
+<img width="903" height="618" alt="image" src="https://github.com/user-attachments/assets/565065f2-8e02-4508-a2ec-e4477ea5aa4d" />
 
-<img width="249" height="542" alt="image" src="https://github.com/user-attachments/assets/523f6a82-4be6-4282-9b13-33e718d5acac" />
+<img width="209" height="462" alt="image" src="https://github.com/user-attachments/assets/523f6a82-4be6-4282-9b13-33e718d5acac" />
 
 
 ### 多角色治理体系
@@ -121,7 +115,7 @@
 - **商家端**：入驻、商品经营、抽盒机管理、订单售后、经营看板
 - **平台端**：仪表盘、商家审核、抽盒机监管、内容审核、审计日志
 
-<img width="981" height="386" alt="image" src="https://github.com/user-attachments/assets/a964f003-e0c9-4485-b4c8-b3d8de6fe681" />
+<img width="901" height="356" alt="image" src="https://github.com/user-attachments/assets/a964f003-e0c9-4485-b4c8-b3d8de6fe681" />
 
 
 ### 项目成果与反思
@@ -157,7 +151,7 @@
 
 以轮播形式展示平台核心价值，支持跳过与进入登录。
 
-<img width="500" height="363" alt="image" src="https://github.com/user-attachments/assets/934e39b6-75e6-4e51-80c7-d6fa7e511a98" />
+<img width="450" height="323" alt="image" src="https://github.com/user-attachments/assets/934e39b6-75e6-4e51-80c7-d6fa7e511a98" />
 
 **3. 登录页**
 
@@ -181,13 +175,13 @@
 
 支持输入标题与正文、上传图片或视频、添加话题标签、添加发布地点，并可通过“关联商品”入口搜索并关联具体的销售系列或销售款式。
 
-<img width="545" height="558" alt="image" src="https://github.com/user-attachments/assets/ae278441-1921-48d9-bc8d-d33d4ca26bf7" />
+<img width="345" height="358" alt="image" src="https://github.com/user-attachments/assets/ae278441-1921-48d9-bc8d-d33d4ca26bf7" />
 
 **7. 商城页**
 
 提供商品与系列的浏览入口，支持按关键词搜索。商品详情页展示商品图片、价格、库存、规格说明与店铺信息。
 
-<img width="1133" height="599" alt="image" src="https://github.com/user-attachments/assets/c66006d9-5605-4c9f-8c55-c7aefd8b65ec" />
+<img width="378" height="200" alt="image" src="https://github.com/user-attachments/assets/c66006d9-5605-4c9f-8c55-c7aefd8b65ec" />
 
 **8. 盲盒模块（列表页、详情页、抽取结果页、仓库页）**
 
@@ -195,14 +189,14 @@
 - **盲盒机详情页**：展示关联系列的全部款式、各款式展示图、隐藏款标识与概率说明。
 - **抽取结果页**：以大图展示所得款式，标注名称、系列与是否隐藏款，提供“再抽一次”与“查看仓库”入口。
 
-<img width="1574" height="554" alt="image" src="https://github.com/user-attachments/assets/6924adc7-2981-4477-b0dc-25185efe7a48" />
+<img width="525" height="185" alt="image" src="https://github.com/user-attachments/assets/6924adc7-2981-4477-b0dc-25185efe7a48" />
 
 **9. 图鉴与卡柜页**
 
 - **图鉴页**：采用“IP—系列—款式”三级结构，展示IP、系列款式详情。
 - **卡柜页**：允许用户创建多个展示柜，向柜内添加藏品条目，并设置是否公开。他人访问用户主页时可浏览其公开的卡柜。
 
-<img width="496" height="525" alt="image" src="https://github.com/user-attachments/assets/9d2d5d12-68d5-4ac4-8a9f-54e949ca018f" />
+<img width="248" height="262" alt="image" src="https://github.com/user-attachments/assets/9d2d5d12-68d5-4ac4-8a9f-54e949ca018f" />
 
 **10. 个人中心与消息页**
 
@@ -210,20 +204,20 @@
 - **消息中心**：聚合点赞、评论、关注与系统通知，未读消息以红点标记。
 - **私信对话页**：用户可与其他用户发起私信会话，展示聊天记录与输入框，支持发送文字与图片。
 
-<img width="1374" height="537" alt="image" src="https://github.com/user-attachments/assets/fe70c9dd-17a7-44f5-9b11-1233862c357f" />
+<img width="458" height="179" alt="image" src="https://github.com/user-attachments/assets/fe70c9dd-17a7-44f5-9b11-1233862c357f" />
 
 **11. AI发现页**
 
 支持自然语言搜索与AI对话式导购，用户可直接询问“适合送女友的盲盒系列”等问题；提供智能推荐入口，结合内容召回、协同过滤与热度兜底混合策略，展示“猜你喜欢”系列与款式推荐
 
-<img width="239" height="529" alt="image" src="https://github.com/user-attachments/assets/2b5547f6-e1bf-427d-aafa-991e5c77775d" />
+<img width="120" height="265" alt="image" src="https://github.com/user-attachments/assets/2b5547f6-e1bf-427d-aafa-991e5c77775d" />
 
 
 **二、商家 Web 端**
 
 覆盖商家日常管理流程，包含商品管理、订单发货、售后处理。
 
-<img width="1336" height="708" alt="image" src="https://github.com/user-attachments/assets/2633a417-d5b3-43b7-84e4-f8c794e2219e" />
+<img width="668" height="354" alt="image" src="https://github.com/user-attachments/assets/2633a417-d5b3-43b7-84e4-f8c794e2219e" />
 
 ---
 
@@ -232,9 +226,9 @@
 覆盖平台治理与运营支撑，包含平台仪表盘、商家管理、用户管理、社区内容审核、标签管理、专题活动发布、管理员账号管理、平台设置。
 
 
-<img width="924" height="356" alt="image" src="https://github.com/user-attachments/assets/7a3f0e3d-a82a-4173-b9ee-242aa3ef3ac8" />
-<img width="987" height="518" alt="image" src="https://github.com/user-attachments/assets/7a225064-25ac-4656-a7e7-b4f493f42989" />
-<img width="874" height="677" alt="image" src="https://github.com/user-attachments/assets/4033958a-318a-4aa5-9924-f7787ce2d98c" />
+<img width="834" height="326" alt="image" src="https://github.com/user-attachments/assets/7a3f0e3d-a82a-4173-b9ee-242aa3ef3ac8" />
+<img width="807" height="428" alt="image" src="https://github.com/user-attachments/assets/7a225064-25ac-4656-a7e7-b4f493f42989" />
+<img width="794" height="617" alt="image" src="https://github.com/user-attachments/assets/4033958a-318a-4aa5-9924-f7787ce2d98c" />
 
 
 ## 三、项目二：迪兹瓦数字孪生工厂管控平台
@@ -253,24 +247,20 @@
 ### 核心工作与职责
 
 **需求分析与产品规划**：
-
 - 主导完成5大业务平台的需求拆解与功能架构设计
 - 将模糊的技术需求文档转化为可落地的产品功能方案
 - 制定全平台演示策略，确保投标Demo覆盖5大平台核心闭环
 
 **原型设计与交互定义**：
-
 - 完成5大平台高保真原型设计，涵盖40+核心页面
 - 定义三维场景与业务数据联动规则（点击设备→加载档案、告警→场景定位）
 
 **大中小屏联动方案设计**：
-
 - 设计“感知→处置→执行”的联动指挥演示方案
 - 制定三屏数据同源同步的交互逻辑，确保大屏（指挥中心）、中屏（业务终端）、小屏（移动端）数据一致
 - 定义三屏之间的角色分工：大屏负责全局态势感知，中屏负责业务处置，小屏负责现场执行
 
 **跨团队协作**：
-
 - 与三维建模团队对齐建模标准，与开发团队制定接口规范与通信协议
 
 
@@ -288,14 +278,14 @@
 
 **大中小屏联动指挥**：设计“感知→处置→执行”的三屏联动方案，大屏（指挥中心）负责全局态势感知，中屏（业务终端）负责业务处置，小屏（移动端）负责现场执行，三屏数据同源同步，确保指挥链路一致。
 
-<img width="960" height="515" alt="image" src="https://github.com/user-attachments/assets/36741f0f-0a61-4fbb-930d-8da63f20d665" />
-<img width="960" height="506" alt="image" src="https://github.com/user-attachments/assets/96099279-031c-41af-b19b-7bc294b70690" />
-<img width="960" height="511" alt="image" src="https://github.com/user-attachments/assets/cfde509b-c707-420d-b30c-168a4b373536" />
-<img width="1107" height="623" alt="image" src="https://github.com/user-attachments/assets/32b9a78b-afa3-439e-aee7-3f1815397be7" />
-<img width="1107" height="623" alt="image" src="https://github.com/user-attachments/assets/10595687-c9df-487c-ac52-d2d9ff4aca2c" />
-<img width="960" height="477" alt="image" src="https://github.com/user-attachments/assets/f742b72b-3ce9-47c7-99bd-0b29badf5bec" />
-<img width="1107" height="623" alt="image" src="https://github.com/user-attachments/assets/9a737248-83cc-4878-9076-745976200472" />
-<img width="1106" height="593" alt="image" src="https://github.com/user-attachments/assets/730cb8a2-7b88-495e-8a09-40d1ad002c29" />
+<img width="800" height="435" alt="image" src="https://github.com/user-attachments/assets/36741f0f-0a61-4fbb-930d-8da63f20d665" />
+<img width="800" height="435" alt="image" src="https://github.com/user-attachments/assets/96099279-031c-41af-b19b-7bc294b70690" />
+<img width="800" height="435" alt="image" src="https://github.com/user-attachments/assets/cfde509b-c707-420d-b30c-168a4b373536" />
+<img width="738" height="415" alt="image" src="https://github.com/user-attachments/assets/32b9a78b-afa3-439e-aee7-3f1815397be7" />
+<img width="738" height="415" alt="image" src="https://github.com/user-attachments/assets/10595687-c9df-487c-ac52-d2d9ff4aca2c" />
+<img width="800" height="387" alt="image" src="https://github.com/user-attachments/assets/f742b72b-3ce9-47c7-99bd-0b29badf5bec" />
+<img width="738" height="415" alt="image" src="https://github.com/user-attachments/assets/9a737248-83cc-4878-9076-745976200472" />
+<img width="738" height="395" alt="image" src="https://github.com/user-attachments/assets/730cb8a2-7b88-495e-8a09-40d1ad002c29" />
 
 
 ### 项目亮点
@@ -327,14 +317,12 @@
 **我的角色**：项目负责人，带领3人团队完成0-1落地。
 
 **核心工作**：
-
 - 主导系统整体设计，聚焦选车、路线与成本三大痛点
 - 构建“数据血管 × AI神经”双维模型，明确产品定位与核心价值
 - 负责动态路线优化功能设计，集成高德与天气API，实现多方案对比与最优路径生成
 - 统筹团队分工与进度，推动项目从0到1落地
 
 **项目成果**：
-
 - 斩获全国人工智能应用创新大赛特等奖
 - 完成0-1系统落地，验证新能源物流决策场景可行性
 
